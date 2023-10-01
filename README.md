@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohamthatte
-- 👀 I’m interested in ...web development, ai
-- 🌱 I’m currently learning ...web development,ai
+- 👀 I’m interested in ...ML
+- 🌱 I’m currently learning ...ML, Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...soham.thatte2512@gmail.com 
 
